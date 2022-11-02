@@ -8,8 +8,10 @@ Returns:
       [1,  4,  9,  25,  36,  64,  81]'''
 
 def sortedSquareArray(array):    
-    for i in ara 
-    return "xxx"
+    # for i in aray 
+    x = [i*i for i in array]
+    x.sort()
+    return x
 
 print(sortedSquareArray([-9,3,7,6]))
 
