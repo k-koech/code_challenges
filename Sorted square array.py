@@ -13,6 +13,6 @@ def sortedSquareArray(array):
     x.sort()
     return x
 
-print(sortedSquareArray([-9,3,7,6]))
+print(sortedSquareArray([-6, -3, -1, 2, 4, 5 ]))
 
       
